@@ -1,0 +1,32 @@
+_repo: Lady-Lucy-s-secret-b-or-the-gold-thimble_74876
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guernsey, Lucy Ellen
+    aliases:
+    - Guernsey, Lucy E. (Lucy Ellen)
+    - L. E. G. (Lucy Ellen Guernsey)
+    - G., L. E. (Lucy Ellen Guernsey)
+    - LEG (Lucy Ellen Guernsey)
+    birthdate: 1826
+    deathdate: 1899
+    gutenberg_agent_id: '56141'
+    url: http://www.gutenberg.org/2009/agents/56141
+    wikipedia: https://en.wikipedia.org/wiki/Lucy_Ellen_Guernsey
+description: ''
+gutenberg_issued: '2024-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74876'
+language: en
+pgterms:marc905: 20241115143457guernsey
+pgterms:marc906: '1869'
+pgterms:marc907: US
+publication_note: '  $aUnited States :$bAmerican Sunday-School Union, $c1869.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Lady Lucy''s secret; : $b or, the gold thimble'
+url: http://www.gutenberg.org/ebooks/74876
